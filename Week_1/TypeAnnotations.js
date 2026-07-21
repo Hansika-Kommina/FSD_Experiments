@@ -1,5 +1,6 @@
 "use strict";
 // PROGRAM 1 : Variable Type Annotation
+Object.defineProperty(exports, "__esModule", { value: true });
 console.log("Program 1 ");
 let name = "Hansika";
 let age = 20;
