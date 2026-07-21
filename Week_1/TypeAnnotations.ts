@@ -16,7 +16,6 @@ console.log(passed);
 
 // PROGRAM 2 : Function Annotation
 
-
 console.log("\nProgram 2 ");
 
 function add(a:number,b:number):number{
@@ -44,3 +43,4 @@ let student:{
 
 console.log(marks);
 console.log(student);
+export {};
