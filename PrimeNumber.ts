@@ -3,6 +3,7 @@ console.log("Check whether the number is prime or not:");
 
 let num: number = 31;
 let isPrime: boolean = true;
+//this is my program
 
 if (num <= 1) {
     isPrime = false;
